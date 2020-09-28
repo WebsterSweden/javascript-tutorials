@@ -20,5 +20,5 @@
 **/Thumbs.db
 
 # Project .gitignore settings.
-
+**/js-tutorial-info/
 **/tutorial-info/
